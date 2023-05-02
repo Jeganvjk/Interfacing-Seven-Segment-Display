@@ -159,6 +159,7 @@ void loop()</br>
 ![Ex no 4](https://user-images.githubusercontent.com/132189820/235571589-65c1149d-ba20-489c-ad98-fc03054a801d.jpeg)
 
 ## OUTPUT:
+![output1](https://user-images.githubusercontent.com/132189820/235576668-e3258958-7819-4061-a9b2-f26a59b93c6d.jpeg)
 
 ## RESULT:
 Thus the characters and numbers are displayed in the seven segment display using Arduino UNO controller
